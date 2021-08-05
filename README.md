@@ -6,5 +6,5 @@ Jika anda tertarik untuk bergabung, silahkan melakukan PR(Pull Request) pada ber
 **\* Nama Lengkap, [Nama Portofolio](alamat portofolio)**
 
 Silahkan List Pendaftaran Portofolio :
-
+* Debian UBY, [Landing Page Website](http://website-latihan.netlify.app)
 
